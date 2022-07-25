@@ -1,0 +1,4 @@
+requests==2.26.0
+urllib3==1.26.9
+Wikipedia-API==0.5.4
+
